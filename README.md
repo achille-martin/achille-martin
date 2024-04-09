@@ -10,8 +10,6 @@ Profile view counter from https://github.com/antonkomarev/github-profile-views-c
 
 ![](https://komarev.com/ghpvc/?username=achille-martin&color=blueviolet&style=flat-square)
 
-⚠️Upcoming talk on underwater exploration and autonomous vehicles on 08/04/2024 at 18:00 BST: [Register here for free](https://www.bcs.org/events-calendar/2024/april/webinar-how-to-make-underwater-exploration-with-autonomous-vehicles-more-reliable/) ⚠️
-
 I am developing autonomous submarines to understand Oceans and Climate Change :ocean:
 
 I am a Software and Mechanical Engineer specialised in Robotics :robot:
