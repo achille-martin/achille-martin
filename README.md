@@ -12,11 +12,9 @@ Profile view counter from https://github.com/antonkomarev/github-profile-views-c
 
 #### About me
 
-| Summary | Detailed |
-| --- | --- |
-| :speedboat::ocean::cloud: | I develop autonomous submarines to understand Oceans and Climate Change |
-| :computer::wrench::robot: | I am a Software and Mechanical Engineer specialised in Robotics |
-| :sparkles::snake::apple: | I enjoy experimenting with Python and Physics | 
+* I develop autonomous submarines to understand the Ocean and Climate Change :ocean:
+* I am a Software and Mechanical Engineer specialised in Robotics :robot:
+* I enjoy experimenting with Python and Physics :sparkles:
 
 #### My projects
 
