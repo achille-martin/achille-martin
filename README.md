@@ -21,4 +21,5 @@ Profile view counter from https://github.com/antonkomarev/github-profile-views-c
 | Theme | Description |
 | --- | --- |
 | Underwater Robotics | Listen to my talk: ["How to make underwater exploration with autonomous vehicles more reliable"](https://www.youtube.com/watch?v=Ti58ZHMeKzE) |
+| Underwater Robotics | Discover [how I test our autonomous underwater vehicles](https://www.youtube.com/watch?v=YEFHlgzy1Dc) in Loch Ness |
 | Python development | For custom support, find me on [Fiverr](https://www.fiverr.com/hardioactif39) |
