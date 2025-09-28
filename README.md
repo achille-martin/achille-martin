@@ -14,7 +14,7 @@ Profile view counter from https://github.com/antonkomarev/github-profile-views-c
 
 * I develop autonomous submarines to understand the Ocean and Climate Change :ocean:
 * I am a Software and Mechanical Engineer specialised in Robotics :robot:
-* I enjoy experimenting with Python and Physics :sparkles:
+* I enjoy experimenting with Python, Neovim and Physics :sparkles:
 
 #### My projects
 
