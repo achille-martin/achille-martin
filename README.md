@@ -18,12 +18,13 @@ Profile view counter from https://github.com/antonkomarev/github-profile-views-c
 
 ### My projects
 
-| Theme | Description |
-|:---:|---|
-| Underwater Robotics | Discover my research on underwater robotics and simulation: <br>[Simulation as a tool to de-risk autonomous underwater vehicle operations](https://ieeexplore.ieee.org/document/11668839) |
-| Underwater Robotics | Listen to my talk: ["How to make underwater exploration with autonomous vehicles more reliable"](https://www.youtube.com/watch?v=Ti58ZHMeKzE) |
-| Underwater Robotics | Discover [how we test our autonomous underwater vehicles](https://www.youtube.com/watch?v=YEFHlgzy1Dc) in Loch Ness |
-| Python Development | For custom support, find me on [LinkedIn](https://www.linkedin.com/in/achillemartin/) |
+| Theme | Type | Description |
+|:---:|:---:|---|
+| Underwater Robotics | Research paper | [Simulation as a tool to de-risk autonomous underwater vehicle operations](https://doi.org/10.1109/JOE.2026.3707716) |
+| Underwater Robotics | Research talk | [Simulation to help reduce risk in underwater exploration](https://www.youtube.com/watch?v=f53Po3rv5bI) |
+| Underwater Robotics | Story talk | [How to make underwater exploration with autonomous vehicles more reliable](https://www.youtube.com/watch?v=Ti58ZHMeKzE) |
+| Underwater Robotics | Diary video | [How we test our autonomous underwater vehicles in Loch Ness](https://www.youtube.com/watch?v=YEFHlgzy1Dc) |
+| Python Development | Custom support | [Find me on LinkedIn](https://www.linkedin.com/in/achillemartin/) |
 
 ### Support
 
